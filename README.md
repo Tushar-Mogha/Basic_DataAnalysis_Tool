@@ -77,9 +77,9 @@ This project is a Python script that performs basic data analysis and visualizat
    - numpy
    -matplotlib
 
-To install the required libraries, run:
+- To install the required libraries, run:
 
-   pip install pandas numpy matplotlib
+   - pip install pandas numpy matplotlib
 
 ---
 
@@ -91,8 +91,14 @@ To install the required libraries, run:
 
    python script_name.py
 
+---
+
+### Output Interpretation
 
 
-
+- Mean: The average value of the column.
+- Median: The middle value when the column is sorted.
+- Mode: The most frequently occurring value in the column.
+- Histograms: Help visualize how values in each numeric column are distributed.
 
 
