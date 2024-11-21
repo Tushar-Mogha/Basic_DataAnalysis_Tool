@@ -102,3 +102,5 @@ This project is a Python script that performs basic data analysis and visualizat
 - Histograms: Help visualize how values in each numeric column are distributed.
 
 
+
+![Output_img](https://github.com/user-attachments/assets/c450d24f-b3f8-4742-a71a-5a4b2413f96f)
