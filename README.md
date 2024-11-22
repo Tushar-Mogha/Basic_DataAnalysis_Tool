@@ -103,4 +103,8 @@ This project is a Python script that performs basic data analysis and visualizat
 
 
 
+![Screenshot 2024-11-22 171819](https://github.com/user-attachments/assets/3f3795bb-114a-4524-9588-56f6112ac1ec)
+
+
+
 ![Output_img](https://github.com/user-attachments/assets/c450d24f-b3f8-4742-a71a-5a4b2413f96f)
